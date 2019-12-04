@@ -1,9 +1,9 @@
 {
   "name": "nunjucks-filesizeformatfilter",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Format values to user friendly values",
   "license": "MIT",
-  "homepage": "https://github.com/awjdigital",
+  "homepage": "https://github.com/awjdigital/nunjucks-filesizeformatfilter",
   "repository": "nunjucks-filesizeformatfilter",
   "author": "Andy Williams-Jones <andy.jones1981@live.co.uk> (http://awj.digital)",
   "main": "index.js",

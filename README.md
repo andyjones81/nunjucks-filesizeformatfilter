@@ -36,3 +36,5 @@ Same support as Nunjucks:
 ## License
 
 [MIT Licensed](LICENSE) 
+
+Originally developed by [jbmoelker](https://github.com/jbmoelker/nunjucks-filter-filesizeformat)
